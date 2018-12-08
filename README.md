@@ -18,8 +18,12 @@ Summarizing research direction and project proposals guided by some overarching 
 
 ## Proposals
 ### 1. Social good
-#### 1.1 Disentangled representations for responsible modeling
-Hypthesis: (Predictive) models can help improve quality and speed of service of existing humanitarian organizations. These models should have a firm grasp on the underlying structure of the (part of the) real world they attempt to represent in order to be used in applications responsibly.  
+#### 1.1 Disentangled unsupervised representation learning for responsible modeling of real-world data
+**Hypothesis.** (Predictive) models can help improve quality and speed of service of existing humanitarian organizations. These models should have a firm grasp on the underlying structure of the (part of the) real world they attempt to represent in order to be used responsibly in real-world applications. Preferably, the models can be trained in an unsupervised manner to relax the data requirements and be usable in practice.
+
+**References**.
+
+[Towards a Definition of Disentangled Representations](https://arxiv.org/pdf/1812.02230.pdf)
 
 #### 1.2 Data-efficient and incremental learning
 Keywords: small amount of data, transfer learning, improve model quality with small number of new data points
